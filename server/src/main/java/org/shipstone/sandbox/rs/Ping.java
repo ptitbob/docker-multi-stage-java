@@ -11,7 +11,7 @@ public class Ping {
 
   @GetMapping
   public String ping() {
-    return "pong";
+    return "pong - jeu set & match";
   }
 
 }
