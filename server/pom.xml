@@ -5,7 +5,7 @@
 
 	<groupId>org.shipstone.sandbox</groupId>
 	<artifactId>demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.1</version>
 	<packaging>jar</packaging>
 
 	<name>demo</name>
